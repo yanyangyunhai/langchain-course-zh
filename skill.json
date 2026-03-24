@@ -1,0 +1,81 @@
+{
+  "name": "langchain-course",
+  "version": "1.0.0",
+  "title": "LangChain从入门到精通",
+  "description": "完整的LangChain培训课程，从零基础到高级实战，8章内容+6个代码示例+3个实战项目。适合Python开发者、AI应用开发者、想学习Agent开发的初学者。",
+  "author": "爪爪",
+  "emoji": "🦞",
+  "category": "training",
+  "tags": ["langchain", "python", "ai", "llm", "rag", "agent"],
+  "language": "zh-CN",
+  "difficulty": "beginner",
+  "estimated_hours": 20,
+  "price": 299,
+  "promotional_price": 199,
+  "sales_page": "https://clawhub.com/skills/langchain-course",
+  "demo_url": "",
+  "repository": "",
+  "documentation": "https://github.com/langchain-ai/langchain",
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-03-23",
+      "changes": [
+        "初始发布，包含完整的8章内容、6个代码示例和3个实战项目。"
+      ]
+    }
+  ],
+  "dependencies": [
+    "langchain>=0.1.0",
+    "langchain-openai>=0.0.2",
+    "langchain-community>=0.0.10",
+    "openai>=1.0.0",
+    "chromadb>=0.3.0"
+  ],
+  "examples": [
+    "examples/quickstart.py",
+    "examples/chapter2_prompts.py",
+    "examples/chapter3_memory.py",
+    "examples/chapter4_chain.py",
+    "examples/chapter5_rag.py",
+    "examples/chapter6_agent.py",
+    "examples/chapter7_deploy.py",
+    "examples/chapter8_project.py"
+  ],
+  "features": [
+    "8个章节内容",
+    "6个代码示例",
+    "3个实战项目",
+    "学习群支持",
+    "代码示例可直接运行"
+  ],
+  "target_audience": [
+    "Python开发者",
+    "AI应用开发者",
+    "LLM开发者",
+    "Agent学习者",
+    "企业AI团队",
+    "数据科学家",
+    "学生"
+  ],
+  "use_cases": [
+    "学习LangChain框架",
+    "开发AI Agent应用",
+    "构建RAG系统",
+    "Agent对话系统",
+    "AI知识库"
+  ],
+  "requirements": [
+    "Python 3.8+",
+    "基础Python知识",
+    "了解大语言模型",
+    "熟悉命令行"
+  ],
+  "outcomes": [
+    "掌握LangChain核心概念",
+    "能够独立开发AI Agent",
+    "实现RAG检索系统",
+    "部署生产级应用",
+    "获得实战项目经验"
+  ]
+}
