@@ -85,8 +85,8 @@ python examples/quickstart.py
 - ✅ 3个月技术支持
 
 **购买方式**：
-- 微信支付：添加微信 475338065
-- 支付宝：475338065@qq.com
+- 微信支付：添加微信 13514777949
+- 支付宝：yanyangyunhai@163.com
 - 备注：LangChain课程+版本
 
 ## 💼 技术服务
@@ -142,8 +142,8 @@ python examples/quickstart.py
 - 内容平台（内容合作）
 
 **联系方式**：
-- 邮箱：475338065@qq.com
-- 微信：475338065
+- 邮箱：yanyangyunhai@163.com
+- 微信：13514777949
 - 主题：企业合作
 
 ## 💖 赞助支持
@@ -158,7 +158,7 @@ python examples/quickstart.py
 
 **赞助链接**：
 - [GitHub Sponsors](https://github.com/sponsors/yanyangyunhai)
-- 微信赞赏码：添加微信 475338065
+- 微信赞赏码：添加微信 13514777949
 
 **赞助将用于**：
 - ✅ 持续更新课程内容
@@ -168,8 +168,8 @@ python examples/quickstart.py
 
 ## 📞 联系方式
 
-- **邮箱**：475338065@qq.com
-- **微信**：475338065（加好友备注：LangChain）
+- **邮箱**：yanyangyunhai@163.com
+- **微信**：13514777949（加好友备注：LangChain）
 - **GitHub**：https://github.com/yanyangyunhai
 - **项目地址**：https://github.com/yanyangyunhai/langchain-course-zh
 
